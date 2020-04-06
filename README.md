@@ -12,3 +12,4 @@ Libraries and tools that allow you to programmatically create, modify, or conver
 - [polygonize](https://github.com/evansque/polygonize) - A fun tool to create geometric low poly art images
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives
+- [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
