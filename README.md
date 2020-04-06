@@ -8,7 +8,6 @@ Libraries and tools that allow you to programmatically create, modify, or conver
 - [geopattern](https://github.com/pravj/geopattern) - Create beautiful generative image patterns from a string in golang
 - [legoizer](https://github.com/esimov/legoizer) - A tool to convert images to Lego bricks
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation
-- [primitive](
 - [text-to-image](https://github.com/bostrom/text-to-image) - Converts text as a string to an image containing that text
 - [polygonize](https://github.com/evansque/polygonize) - A fun tool to create geometric low poly art images
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
