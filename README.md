@@ -1,5 +1,6 @@
-# awesome-image-creation
-Libraries and tools that allow you to programmatically create, modify, or convert images
+# Awesome Image Creation
+
+Libraries and tools (mostly CLI) that allow you to programmatically create, modify, or convert images
 
 - [GoBrot](https://github.com/esimov/gobrot) - Mandelbrot image renderer in Go
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning
