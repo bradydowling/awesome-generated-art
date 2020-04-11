@@ -1,4 +1,4 @@
-# Awesome Image Creation
+# Awesome Generated Art
 
 Libraries and tools (mostly CLI) that allow you to programmatically create, modify, or convert images
 
