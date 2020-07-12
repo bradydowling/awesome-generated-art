@@ -1,6 +1,6 @@
 # Awesome Generated Art
 
-Libraries and tools (mostly CLI) that allow you to programmatically create, modify, or convert images
+## Libraries/tools (mostly CLI) that allow you to programmatically create, modify, or convert images
 
 - [GoBrot](https://github.com/esimov/gobrot) - Mandelbrot image renderer in Go
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning
@@ -14,3 +14,6 @@ Libraries and tools (mostly CLI) that allow you to programmatically create, modi
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
+
+## Podcasts
+- [Generative Artistry](https://generativeartistry.com/)
