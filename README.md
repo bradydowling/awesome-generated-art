@@ -1,6 +1,7 @@
 # Awesome Generated Art
 
-## Libraries/tools (mostly CLI) that allow you to programmatically create, modify, or convert images
+## Libraries/tools
+These are mostly CLIs that allow you to programmatically create, modify, or convert images
 
 - [GoBrot](https://github.com/esimov/gobrot) - Mandelbrot image renderer in Go
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning
